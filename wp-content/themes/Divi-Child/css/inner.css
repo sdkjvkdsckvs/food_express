@@ -1,0 +1,51 @@
+
+
+/*About Us*/
+/* HELLO */
+.about-h2 .et_pb_text_inner h2{
+    padding-top: 30px;
+}
+.about-h4-order .et_pb_text_inner h4{
+    padding-left: 102px;
+    padding-top: 14px;
+    letter-spacing: -1px;
+}
+.about-h4-delivery .et_pb_text_inner h4{
+    padding-left: 33px;
+    padding-top: 10px;
+    letter-spacing: -1px;
+}
+.about-h4-quality .et_pb_text_inner h4{
+    padding-right: 112px;
+    padding-top: 14px;
+    letter-spacing: -1px;
+}
+.about-order-p .et_pb_text_inner p{
+    padding-left: 81px;
+    padding-top: 8px;
+}
+.about-delivery-p .et_pb_text_inner p{
+    padding-left: 32px;
+    padding-top: 8px;
+}
+.about-quality-p .et_pb_text_inner p{
+    padding-right: 68px;
+    padding-top: 8px;
+}
+
+/*Contact Us*/
+.contact-h2 .et_pb_text_inner h2 span{
+    color:#ff0000;
+}
+.wpcf7-form{
+    display: flex;
+    flex-wrap: wrap;
+}
+.contact-1 {
+    flex-basis: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+  
