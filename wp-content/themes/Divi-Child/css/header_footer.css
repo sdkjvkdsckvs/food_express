@@ -1,0 +1,19 @@
+.et_pb_menu .et_pb_menu__menu>nav>ul {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    margin-left: 250px;
+}
+
+.et_pb_section.et_section_specialty div.et_pb_row .et_pb_column .et_pb_column .et_pb_module.et-last-child, .et_pb_section.et_section_specialty div.et_pb_row .et_pb_column .et_pb_column .et_pb_module:last-child, .et_pb_section.et_section_specialty div.et_pb_row .et_pb_column .et_pb_row_inner .et_pb_column .et_pb_module.et-last-child, .et_pb_section.et_section_specialty div.et_pb_row .et_pb_column .et_pb_row_inner .et_pb_column .et_pb_module:last-child, .et_pb_section div.et_pb_row .et_pb_column .et_pb_module.et-last-child, .et_pb_section div.et_pb_row .et_pb_column .et_pb_module:last-child {
+    margin-bottom: 0;
+    text-align: center;
+    margin-top: 0px;
+    padding: 0;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
