@@ -49,3 +49,129 @@
     margin-bottom: 1rem;
   }
   
+  /*CheckOut Page*/
+#customer_details {
+  float: right;
+  width: 74%;
+  margin-right: 0;
+  margin-left: auto;
+  margin-right: -185px;
+  background-color: #FFE13C;
+  margin-top: -36px;
+}
+ #order_review {
+    float: left;
+    width: 50%;
+    margin-left:-100px;
+}
+  #left-area{
+    width:100%;
+}
+.woocommerce-checkout #order_review_heading{
+    background-color: #000;
+    color: #FFE13C;
+    width: 50%;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    margin-left: -100px;
+    TEXT-ALIGN: center;
+    font-size: 33px;
+    margin-bottom:8px;
+    font-weight: 700;
+  }
+.container:before{
+    display: none;
+}
+#order_review .woocommerce-checkout-review-order-table{
+    background: #000000;
+    border:none;
+}
+.shop_table  thead tr th{
+  text-transform: uppercase;
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 33px;
+  border-bottom: 2px dashed #FFE13C;
+}
+.cart_item td{
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 33px;
+}
+tfoot .cart-subtotal td{
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 33px;
+  border:none !important;
+}
+tfoot .cart-subtotal th{
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 33px;
+}
+tfoot .woocommerce-shipping-totals{
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 33px;
+}
+tfoot .woocommerce-shipping-totals th{
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 33px;
+}
+tfoot .order-total td {
+  border-top: 2px dashed #FFE13C !important;
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 33px;
+}
+tfoot .order-total th{
+  border-top: 2px dashed #FFE13C !important;
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 33px;
+}
+#content-area table th{
+  padding-left: 24px;
+  padding-top:15px;
+  padding-bottom:15px;
+  font-weight: 600;
+}
+#content-area table td{
+  padding-left: 24px;
+  padding-top:15px;
+  padding-bottom:15px;
+  font-weight: 600;
+}
+.woocommerce table.shop_table{
+  border-radius: 0px;
+}
+.woocommerce-billing-fields h3{
+  color: #000;
+  font-size: 33px;
+  font-weight: 700;
+  padding-left: 30px;
+  padding-top: 22px;
+}
+.woocommerce form .form-row label{
+  font-weight: 600;
+  font-size: 18px;
+  color: #000;
+}
+.woocommerce form .form-row .required{
+  display:none;
+}
+.woocommerce .form-row .woocommerce-input-wrapper .input-text{
+    max-width: 707px;
+    width:707px;
+    background: #FFFFFF;
+    border-radius: 20px;
+}
