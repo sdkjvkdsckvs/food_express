@@ -1,0 +1,140 @@
+/*banner_css*/
+#logo {
+    max-height: 93%;
+}
+/* .et_pb_section.et_pb_section_3.header-banner {
+    padding-bottom: 358px;
+} */
+.header-banner {
+    height: 600px;
+}
+.header-banner-text h1{
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 90px;
+    letter-spacing: -0.03em;
+    color: #000000;
+    line-height: 97px;
+}
+.et_fullwidth_nav #main-header .container {
+    width: 100%;
+    max-width: 100%;
+    padding-right: 32px;
+    padding-left: 30px;
+    background-color: #FFE13C;
+
+}
+.header-banner-text p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+    color: #000000;
+}
+.header-banner-text span {
+    color: red;
+}
+#top-menu li {
+    display: inline-block;
+    font-size: 14px;
+    padding-right: 22px;
+    /* color: black; */
+    margin-left: 30px;
+}
+.et_pb_section.et_pb_section_4.about-section1 {
+    margin-top: 64px;
+}
+.faqs_heading_main h1 {
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 75px;
+    line-height: 97px;
+    letter-spacing: -0.01em;
+    color: #000000;
+}
+.faqs_heading_main h1{
+    border-color: red;
+}
+/* .et_pb_module.et_pb_text.et_pb_text_13.about-h4-order h4 {
+    margin-top: 28px;
+    margin-bottom: 15px;
+}
+.et_pb_module.et_pb_text.et_pb_text_15.about-h4-delivery h4{
+    margin-top: 28px;
+    margin-bottom: 15px;
+}
+.et_pb_module.et_pb_text.et_pb_text_17.about-h4-quality h4{
+    margin-top: 28px;
+    margin-bottom: 15px;
+} */
+
+/*faqs*/
+.toggle_faqs {
+    border-block: none;
+    border-right: none;
+    border-left: none;
+    background-color: white;
+    /* border-bottom-color: red; */
+    border-bottom: 2px dashed #FF0000;
+}
+.et_pb_toggle_title:before {
+    content: "\E050";
+    position: absolute;
+    right: 0;
+    font-size: 16px;
+    color: #f50606;
+    top: 50%;
+    margin-top: -0.5em;
+}
+ .area-where-heading p {
+        font-family: 'League Spartan';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 75px;
+        line-height: 97px;
+        letter-spacing: -0.01em;
+        color: #000000;
+    }
+    .area-where-image {
+        left: 127px;
+        height: 478px;
+        margin-top: -15px;
+    }
+    h5.et_pb_toggle_title {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 43px;
+        letter-spacing: -0.03em;
+        color: #000000;
+    }
+    .et_pb_toggle_content p {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 20px;
+        letter-spacing: 0.02em;
+        color: #0c0a0a;
+    }
+    .maping-work {
+        background: #141111;
+        border-radius: 20px;
+        margin-left: -98px;
+        margin-right: -156px;
+        margin-top: -25px;
+    }
+    iframe {
+        /* max-width: 99%; */
+        width: 744px;
+        height: 488px;
+        margin-top: 10px;
+        margin-left: 10px;
+        border-radius: 10px;
+        margin-bottom: 4px;
+    }
