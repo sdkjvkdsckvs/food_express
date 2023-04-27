@@ -138,3 +138,79 @@
         border-radius: 10px;
         margin-bottom: 4px;
     }
+    
+    
+    
+    /*Popular Restaurants*/
+    .Polpular_heading {
+        font-family: 'League Spartan';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 75px;
+        line-height: 97px;
+        letter-spacing: -0.01em;
+        color: #000000;
+    }
+    
+     .add_adress .et_pb_code_inner input {
+        font-family: inherit;
+        margin-bottom: 10px;
+        margin-left: 62px;
+        font-size: 21px;
+        border-bottom-color: white;
+        border-block-end-color: white;
+        border-left-color: white;
+        border-right-color: white;
+        border-top-color: white;
+        border-block-start-style: initial;
+        border-block-end-style: unset;
+        border-inline-end-style: initial;
+        border-left-style: hidden;
+    }
+    button {
+        font-family: inherit;
+        padding: 9px;
+        background: black;
+        color: white;
+        font-size: 21px;
+        border-radius: 37px;
+        padding-left: 23px;
+        padding-right: 23px;
+        margin-top: -20px;
+    }
+
+
+    /*categories*/
+    .categories_header p {
+        font-family: 'League Spartan';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 75px;
+        line-height: 97px;
+        letter-spacing: -0.01em;
+        color: #000000;
+    }
+    .category_banner {
+        height: 394px;
+        
+    }
+    .categories_header{
+        margin-top: -41px;
+    }
+    .Header_categories_worker_ontop {
+        margin-top: -26px;
+    }
+    .categories_italian_working {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 26px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: -0.04em;
+        /* color: #000000; */
+        /* color: beige; */
+    }
+    .et_pb_code_inner a {
+        color: black;
+    }
