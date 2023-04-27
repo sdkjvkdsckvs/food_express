@@ -54,3 +54,74 @@
     margin-bottom: 1rem;
   }
   
+  /*resturants*/
+  .Heading_itali {
+    font-family: 'Hurricane';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 145px;
+    line-height: 97px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.03em;
+    text-transform: capitalize;
+    color: #FF0000;
+    text-shadow: 6px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.et_pb_module.et_pb_image.et_pb_image_1.pizzza_setting {
+    margin-left: -127px;
+    margin-top: -58px;
+}
+.color_background_setting {
+    height: 264px;
+}
+
+
+/*bella_vetta*/
+.BELLA_VETTA_BANNER {
+    height: 270px;
+}
+.BABA_PIZZA_BANNER{
+    height: 270px;
+}
+.BROADWAY_PIZZZA_BANNER{
+    height: 270px;
+}
+.PIZZZA_MAX_BANNER{
+    height: 270px;
+}
+.MAD_CHEESE_BANNAER{
+    height: 270px;
+}
+.PIZZA_PANDA_BANNER{
+    height: 270px;
+}
+.POPULAR_HEADING {
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 97px;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+    color: #000000;
+    text-align: center;
+}
+img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail {
+    border: 6px solid #ff0404;
+}
+.woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price, .woocommerce ul.products li.product .price del, .woocommerce-page ul.products li.product .price del {
+    color: #100f0f !important;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    margin: 0 !important;
+}
+.woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3 {
+    padding: 0.5em 0;
+    margin: 0;
+    color: #000000 !important;
+    font-size: 2em;
+    font-family: 'Poppins';
+}
