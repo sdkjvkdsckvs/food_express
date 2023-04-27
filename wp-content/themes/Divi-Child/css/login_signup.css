@@ -1,0 +1,97 @@
+                                                /*Login Page*/
+
+.xoo-el-form-wrap {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.xoo-el-sidebar {
+    margin-right:0px;
+    order: 2; 
+    background-image:url('../images/SignUp-Login/login.jpg')!important;
+    min-width: 48%!important;
+    width: 48%;
+}
+.xoo-el-sidebar2{
+    margin-right:0px;
+    order: 2; 
+    background-image:url('../images/SignUp-Login/sign-up.png')!important;
+    min-width: 48%!important;
+    width: 48%;
+}
+.scroll-content {
+    margin-left: 20px; 
+    order: 1; 
+}
+.xoo-el-inmodal {
+    max-width: 1090px; 
+}
+.heading{
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 79px;
+    letter-spacing: -0.03em;
+    color: #000000;
+    text-align: center;
+}
+.headingspan{
+    color:#ff0000;
+}
+.logo_imagelogin{
+    background-image:url('../images/SignUp-Login/Logo-1.png')!important;
+    background-size: 82%;
+    display: block;
+    width: 249px;
+    height: 62px;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: -26px;
+    margin-left: 30.5%;
+}
+.xoo-el-form-container ul.xoo-el-tabs li.xoo-el-active {
+    background-color: #FFE13C;
+    color: #000000;
+}
+.xoo-el-srcont {
+    background-color: #FCFCFC;
+}
+.xoo-el-form-container button.btn.button.xoo-el-action-btn {
+    display: block;
+    background-color: #FFE13C;
+    color: #000000;
+    border-radius: 30px;
+    border: 0px;
+    width: 271px;
+    margin: 0 auto;
+    text-align: center !important;
+}
+span.xoo-el-close:hover {
+    color: #ff0000;
+}
+span.xoo-el-close {
+    background-color: #ffffff;
+    color: #000000;
+}
+.xoo-aff-group.xoo-el-login-btm-fields{
+    margin-bottom: 25px;
+}
+.xoo-el-main a:hover {
+    color: #004171;
+}
+.xoo-el-main a{
+    font-weight:600;
+}
+                                         /*Sign Up Page*/
+.xoo-aff-group label {
+    margin-bottom: 12px;
+}
+.xoo-el-form-container button.btn.button.xoo-el-action-btn:hover {
+    color: #ffffff;
+    background-color: #000000;
+}
+                                        /*Forget Password*/
+button.button:not(.button-confirm):after{
+    margin-top: -4px;
+}

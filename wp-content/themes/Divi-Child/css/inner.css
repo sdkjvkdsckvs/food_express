@@ -1,7 +1,4 @@
-
-
-/*About Us*/
-/* HELLO */
+                                      /*About Us*/
 .about-h2 .et_pb_text_inner h2{
     padding-top: 30px;
 }
@@ -49,7 +46,7 @@
     margin-bottom: 1rem;
   }
   
-  /*CheckOut Page*/
+                                      /*CheckOut Page*/
 #customer_details {
   float: right;
   width: 74%;
@@ -174,4 +171,7 @@ tfoot .order-total th{
     width:707px;
     background: #FFFFFF;
     border-radius: 20px;
+}
+.form-row{
+  display:none;
 }

@@ -1,0 +1,2 @@
+2023-04-25T12:44:56+00:00 CRITICAL Out of memory (allocated 138412032 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\food_express\wp-content\plugins\woocommerce\includes\class-wc-tax.php on line 1124
+

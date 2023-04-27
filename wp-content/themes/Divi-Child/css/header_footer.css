@@ -1,0 +1,39 @@
+/*----Header Css----*/
+#top-menu li {
+    display: inline-block;
+    margin-left: 10px;
+}
+.et_header_style_left #et-top-navigation nav>ul>li>a,.et_header_style_split #et-top-navigation nav>ul>li>a{
+    padding-bottom: 32px;
+}
+#main-footer{
+    background-color: #ffe13c;
+}
+#footer-widgets {
+    padding: 2% 0 0;
+}
+p:not(.has-background):last-of-type {
+    color:black;
+}
+.et_pb_gutters3.et_pb_footer_columns4 .footer-widget .fwidget {
+    margin-bottom: -0.653%;
+}
+#block-9 p {
+    white-space: nowrap;
+}
+#main-footer .container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #footer-widgets > .footer-widget:nth-child(-n+3) {
+    text-align: center;
+  }
+  #block-8 {
+    text-align: center;
+  }
+  #footer-widgets{
+    padding-left: 230px;
+  }  
+  
+  

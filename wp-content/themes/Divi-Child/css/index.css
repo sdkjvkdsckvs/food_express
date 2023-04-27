@@ -1,4 +1,5 @@
 /*banner_css*/
+/*hello*/
 #logo {
     max-height: 93%;
 }
@@ -38,13 +39,6 @@ div.et_pb_section.et_pb_section_0, div.et_pb_section.et_pb_section_4, div.et_pb_
 .header-banner-text span {
     color: red;
 }
-#top-menu li {
-    display: inline-block;
-    font-size: 19px;
-    padding-right: 22px;
-    /* color: black; */
-    margin-left: 30px;
-}
 .et_pb_section.et_pb_section_4.about-section1 {
     margin-top: 64px;
 }
@@ -60,15 +54,3 @@ div.et_pb_section.et_pb_section_0, div.et_pb_section.et_pb_section_4, div.et_pb_
 .faqs_heading_main h1{
     border-color: red;
 }
-/* .et_pb_module.et_pb_text.et_pb_text_13.about-h4-order h4 {
-    margin-top: 28px;
-    margin-bottom: 15px;
-}
-.et_pb_module.et_pb_text.et_pb_text_15.about-h4-delivery h4{
-    margin-top: 28px;
-    margin-bottom: 15px;
-}
-.et_pb_module.et_pb_text.et_pb_text_17.about-h4-quality h4{
-    margin-top: 28px;
-    margin-bottom: 15px;
-} */
