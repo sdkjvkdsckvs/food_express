@@ -175,3 +175,172 @@ tfoot .order-total th{
 .form-row{
   display:none;
 }
+                                      /*Thank You*/
+.thankyou_two .et_pb_text_inner h4{
+  margin-top: -31px;
+}
+.thankyou_two .et_pb_text_inner h4 span{
+ color: #004171;
+}
+.thankyou-road{
+  width: 1920px;
+  height: 20px;
+}
+.et_pb_section.et_pb_section_4.road_css.et_pb_with_background.et_section_regular {
+  height: 205px;
+}
+.background_hider {
+  display: none;
+}
+.thankyou_one {
+  margin-top: -30px;
+}
+p:not(.has-background):last-of-type {
+  color: black;
+  display: none;
+}
+.biker_rider_fast_css {
+  height: 200px;
+}
+.text_hide  {
+  display:none;
+}
+.et_pb_bg_layout_light.et_pb_button{
+  background-color: black;
+  border: 0px;
+  border-radius: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
+  color: white;
+  font-size: 20px;
+  margin-left: 390px;
+}
+.et_pb_bg_layout_light.et_pb_button:hover{
+  background-color: #ff0000;
+  padding-right: 50px;
+  padding-left: 50px;
+  color: white;
+  font-size: 20px;
+}
+                                      /*Cart*/
+
+.main_title{
+  text-align: center;
+  font-size:55px;
+  color: black;
+}
+.woocommerce table.shop_table{
+  border: 3px solid #ff0000;
+}
+.woocommerce button.button, .woocommerce-page button.button{
+  background-color: black;
+  border: 0px;
+  border-radius: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
+  color: white;
+  font-size: 20px;
+  margin-left: 390px;
+}
+.woocommerce button.button:hover, .woocommerce-page button.button:hover{
+  background-color: #ff0000;
+  border: 0px;
+  border-radius: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
+  color: white;
+  font-size: 20px;
+  margin-left: 390px;
+}
+.woocommerce a.button.alt, .woocommerce-page a.button.alt{
+  background-color: #000000;
+  border: 0px;
+  border-radius: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
+  color: white;
+  font-size: 20px;
+}
+.woocommerce a.button.alt:hover, .woocommerce-page a.button.alt:hover{
+  background-color: #ff0000;
+  border: 0px;
+  border-radius: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
+  color: white;
+  font-size: 20px;
+}
+                                      /*Shop*/
+.woocommerce div.product div.images .woocommerce-product-gallery__image--placeholder{
+  border: 2px solid #ff0000;
+}
+.woocommerce div.product .product_title{
+  font-size: 50px;
+  color: black;
+}
+.entry-summary p.price span{
+  font-size: 18px !important;
+  color: #004171;
+} 
+.woocommerce div.product form.cart .button{
+  background-color: black;
+  border: 0px;
+  border-radius: 50px;
+  padding-right: 45px;
+  padding-left: 45px;
+  color: white;
+  font-size: 18px;
+  margin-top: 5px;
+}
+.woocommerce-message a.button.wc-forward{
+  background-color: black;
+  border: 0px;
+  border-radius: 50px;
+  padding-right: 45px;
+  padding-left: 45px;
+  color: white;
+  font-size: 18px;
+  margin-top: 5px;
+}
+.woocommerce-message a.button.wc-forward:hover{
+  background-color: #ff0000;
+}
+.woocommerce .quantity input.qty{
+  width: 7.3em;
+  background-color: black;
+  color: white;
+  border-radius: 50px;
+}
+.woocommerce button.button:hover:after, .woocommerce-page button.button:hover:after{
+  font-size: 26px;
+  margin-top: 1px;
+}
+.woocommerce .woocommerce-message {
+  background-color: #FFE13C;
+}
+.woocommerce a.button:hover:after, .woocommerce-page a.button:hover:after{
+  font-size: 26px;
+  margin-top: 2px;
+}
+.woocommerce div.product .woocommerce-tabs .panel, body.woocommerce #content-area div.product .woocommerce-tabs .panel {
+  border: 2px solid #ff0000;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs, body.woocommerce #content-area div.product .woocommerce-tabs ul.tabs{
+  background: black;
+}
+.woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before{
+  color: #FFE13C;
+}
+.woocommerce #review_form #respond .form-submit input{
+  background-color: black;
+  border: 0px;
+  border-radius: 50px;
+  padding-right: 45px;
+  padding-left: 45px;
+  color: white;
+  font-size: 18px;
+  margin-top: 5px;
+}
+.woocommerce #review_form #respond .form-submit input:hover{
+  background-color: #ff0000;
+}
